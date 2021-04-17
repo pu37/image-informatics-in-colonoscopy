@@ -1,6 +1,6 @@
 # image-informatics-in-colonoscopy
 
-Separating clear frames from blurry ones (classification problem) and locating polyps (segmentation problem) in a Colonoscopic video.
+Separating clear frames from blurry ones (classification problem) and locating polyps (segmentation problem) in a Colonoscopic video using deep learning.
 
 ## Process
 
